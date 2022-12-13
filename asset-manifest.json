@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Shpakk2/goit-react-hw-01-components.git/static/css/main.7acaea2f.css",
-    "main.js": "/Shpakk2/goit-react-hw-01-components.git/static/js/main.98571d39.js",
+    "main.js": "/Shpakk2/goit-react-hw-01-components.git/static/js/main.07d3183d.js",
     "index.html": "/Shpakk2/goit-react-hw-01-components.git/index.html",
     "main.7acaea2f.css.map": "/Shpakk2/goit-react-hw-01-components.git/static/css/main.7acaea2f.css.map",
-    "main.98571d39.js.map": "/Shpakk2/goit-react-hw-01-components.git/static/js/main.98571d39.js.map"
+    "main.07d3183d.js.map": "/Shpakk2/goit-react-hw-01-components.git/static/js/main.07d3183d.js.map"
   },
   "entrypoints": [
     "static/css/main.7acaea2f.css",
-    "static/js/main.98571d39.js"
+    "static/js/main.07d3183d.js"
   ]
 }
