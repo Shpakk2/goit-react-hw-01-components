@@ -1,0 +1,16 @@
+.transactionHistory {
+  margin-top: 40px;
+  width: 320px;
+  text-align: center;
+  border-collapse: collapse;
+  border: 3px solid black;
+}
+
+.head {
+  background-color: rgb(255, 238, 0);
+  border-bottom: 1px solid black;
+}
+
+tr:nth-child(odd) {
+  background-color: hsla(346, 72%, 62%, 0.3);
+}
